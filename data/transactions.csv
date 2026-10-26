@@ -1,0 +1,601 @@
+﻿Transaction_ID,Date,Transaction_Type,Category,Department,Description,Amount_INR,Status,Payment_Method,Region
+FIN0069,2024-01-02 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,19393.32,Completed,UPI,East
+FIN0213,2024-01-02 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,16665.41,Completed,Credit Card,Central
+FIN0269,2024-01-02 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,38992.08,Completed,UPI,Central
+FIN0421,2024-01-05 00:00:00,Expense,Rent,IT,Rent transaction - IT,4052.48,Completed,UPI,East
+FIN0133,2024-01-05 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3284.19,Completed,UPI,East
+FIN0599,2024-01-09 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,5388.98,Completed,Bank Transfer,Central
+FIN0276,2024-01-09 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,3545.16,Completed,UPI,Central
+FIN0513,2024-01-12 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,26360.61,Completed,UPI,West
+FIN0054,2024-01-14 00:00:00,Expense,Office Supplies,IT,Office Supplies transaction - IT,6009.29,Completed,UPI,Central
+FIN0098,2024-01-15 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,23709.15,Completed,UPI,West
+FIN0139,2024-01-15 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,24890.92,Completed,Cash,West
+FIN0491,2024-01-16 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,4151.96,Completed,UPI,North
+FIN0341,2024-01-17 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,17580.08,Completed,Credit Card,North
+FIN0366,2024-01-18 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,18270.57,Completed,Credit Card,South
+FIN0560,2024-01-19 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,30643.57,Completed,Cash,East
+FIN0391,2024-01-20 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,5013.27,Completed,Bank Transfer,East
+FIN0007,2024-01-21 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,22585.97,Completed,Cash,Central
+FIN0048,2024-01-21 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,32462.73,Pending,Cash,East
+FIN0320,2024-01-22 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,22569.23,Completed,Cash,East
+FIN0030,2024-01-22 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,15386.9,Completed,Cash,East
+FIN0481,2024-01-23 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,6172.11,Completed,Cash,Central
+FIN0578,2024-01-25 00:00:00,Expense,Software,Operations,Software transaction - Operations,6356.7,Completed,UPI,West
+FIN0328,2024-01-27 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,1690.55,Completed,Bank Transfer,East
+FIN0164,2024-01-28 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,33675.81,Cancelled,UPI,East
+FIN0117,2024-01-28 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,5671.62,Completed,Credit Card,East
+FIN0315,2024-02-02 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,8289.21,Completed,Cash,Central
+FIN0120,2024-02-02 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,5078.41,Completed,Credit Card,East
+FIN0518,2024-02-04 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,15893.53,Completed,Bank Transfer,North
+FIN0064,2024-02-04 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,16773.17,Completed,Bank Transfer,North
+FIN0389,2024-02-05 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,15769.93,Completed,Bank Transfer,East
+FIN0153,2024-02-05 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,66983.52,Completed,UPI,South
+FIN0350,2024-02-06 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,15040.66,Completed,UPI,South
+FIN0274,2024-02-06 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,4100.34,Completed,Credit Card,East
+FIN0547,2024-02-06 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,4524.28,Completed,Credit Card,North
+FIN0322,2024-02-07 00:00:00,Expense,Office Supplies,Finance,Office Supplies transaction - Finance,4169,Completed,Cash,North
+FIN0585,2024-02-08 00:00:00,Expense,Travel,Finance,Travel transaction - Finance,6505.61,Completed,UPI,Central
+FIN0382,2024-02-08 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,3061.55,Completed,Cash,North
+FIN0096,2024-02-10 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,8859.01,Pending,UPI,South
+FIN0116,2024-02-10 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,31453.81,Completed,Bank Transfer,Central
+FIN0588,2024-02-11 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,4800.81,Completed,Bank Transfer,North
+FIN0509,2024-02-12 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,1805.51,Completed,UPI,Central
+FIN0346,2024-02-15 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3314.5,Pending,UPI,South
+FIN0468,2024-02-16 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,8338.75,Completed,Cash,South
+FIN0425,2024-02-16 00:00:00,Expense,Logistics,Marketing,Logistics transaction - Marketing,7242.35,Completed,Cash,South
+FIN0121,2024-02-17 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,27723.59,Completed,UPI,South
+FIN0339,2024-02-18 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,4598.39,Completed,Bank Transfer,Central
+FIN0401,2024-02-20 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,6830.42,Completed,Cash,Central
+FIN0222,2024-02-22 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,46158.16,Completed,Cash,North
+FIN0091,2024-02-22 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,27065.68,Completed,Bank Transfer,North
+FIN0418,2024-02-22 00:00:00,Expense,Logistics,Finance,Logistics transaction - Finance,11418.52,Completed,Cash,West
+FIN0414,2024-02-23 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,18438.92,Completed,Bank Transfer,North
+FIN0284,2024-02-23 00:00:00,Expense,Salaries,HR,Salaries transaction - HR,4928.97,Completed,UPI,East
+FIN0436,2024-02-27 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,2067.64,Completed,Cash,South
+FIN0443,2024-02-27 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,34072.41,Completed,UPI,East
+FIN0034,2024-02-28 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,31510.8,Completed,Bank Transfer,West
+FIN0554,2024-03-02 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,4216.26,Completed,Cash,South
+FIN0105,2024-03-03 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,28282.82,Completed,Cash,North
+FIN0099,2024-03-05 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,8743.85,Completed,Cash,West
+FIN0575,2024-03-09 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,17657.99,Completed,UPI,West
+FIN0467,2024-03-09 00:00:00,Expense,Software,Operations,Software transaction - Operations,6523.02,Completed,UPI,East
+FIN0005,2024-03-12 00:00:00,Expense,Marketing,IT,Marketing transaction - IT,5546.45,Completed,UPI,Central
+FIN0600,2024-03-14 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,4419.59,Completed,Bank Transfer,East
+FIN0530,2024-03-15 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,23761.32,Pending,Cash,East
+FIN0459,2024-03-16 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,39959.76,Completed,UPI,Central
+FIN0566,2024-03-16 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,34779.36,Completed,Credit Card,East
+FIN0066,2024-03-21 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,805.55,Completed,Cash,East
+FIN0210,2024-03-21 00:00:00,Revenue,Consulting,Finance,Consulting transaction - Finance,50006.05,Completed,UPI,Central
+FIN0158,2024-03-26 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,9891.66,Completed,Credit Card,West
+FIN0463,2024-03-26 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,19900.07,Completed,UPI,South
+FIN0014,2024-03-28 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,9507.42,Completed,Bank Transfer,South
+FIN0520,2024-03-30 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,1991.9,Completed,UPI,Central
+FIN0398,2024-04-01 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,4183.36,Completed,Cash,South
+FIN0059,2024-04-01 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,1693.31,Completed,Credit Card,East
+FIN0469,2024-04-03 00:00:00,Expense,Logistics,Sales,Logistics transaction - Sales,2598.33,Completed,Cash,Central
+FIN0543,2024-04-05 00:00:00,Expense,Software,Operations,Software transaction - Operations,12489.81,Completed,Credit Card,North
+FIN0446,2024-04-05 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,14249.84,Completed,Cash,South
+FIN0146,2024-04-05 00:00:00,Expense,Software,Sales,Software transaction - Sales,2326.29,Completed,Bank Transfer,East
+FIN0576,2024-04-08 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,45033.96,Completed,Bank Transfer,West
+FIN0357,2024-04-08 00:00:00,Expense,Logistics,Finance,Logistics transaction - Finance,2253.47,Pending,UPI,Central
+FIN0541,2024-04-08 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,9410.18,Completed,UPI,North
+FIN0349,2024-04-08 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,31240.79,Cancelled,Bank Transfer,East
+FIN0278,2024-04-08 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,40432.31,Completed,UPI,West
+FIN0298,2024-04-08 00:00:00,Expense,Logistics,Operations,Logistics transaction - Operations,43863.37,Completed,Bank Transfer,Central
+FIN0126,2024-04-08 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,15802.46,Cancelled,UPI,Central
+FIN0016,2024-04-09 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,65513.11,Completed,Cash,West
+FIN0483,2024-04-09 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,5386.24,Completed,UPI,East
+FIN0422,2024-04-12 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,3546.31,Completed,Credit Card,South
+FIN0001,2024-04-12 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,8965.74,Completed,Credit Card,East
+FIN0292,2024-04-13 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,93930.58,Completed,Cash,West
+FIN0378,2024-04-13 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,9773.8,Pending,Cash,West
+FIN0072,2024-04-15 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,50372.27,Completed,Cash,Central
+FIN0430,2024-04-15 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,34625.34,Completed,Bank Transfer,North
+FIN0004,2024-04-16 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,19586.66,Completed,Bank Transfer,South
+FIN0586,2024-04-18 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,11959.16,Completed,Cash,North
+FIN0295,2024-04-21 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3810.57,Completed,Cash,Central
+FIN0207,2024-04-22 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,20755.76,Completed,Cash,West
+FIN0199,2024-04-22 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,2337.13,Completed,Credit Card,East
+FIN0212,2024-04-22 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,17903.77,Completed,UPI,South
+FIN0524,2024-04-24 00:00:00,Expense,Software,Operations,Software transaction - Operations,2793.75,Completed,Cash,North
+FIN0359,2024-04-25 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,5205.97,Completed,Cash,West
+FIN0439,2024-04-26 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,15357.72,Completed,Cash,North
+FIN0448,2024-04-27 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,11070.7,Pending,Bank Transfer,North
+FIN0285,2024-04-29 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,5195.76,Completed,Bank Transfer,West
+FIN0434,2024-04-29 00:00:00,Expense,Salaries,IT,Salaries transaction - IT,18347.89,Completed,Bank Transfer,North
+FIN0009,2024-05-01 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,97183.38,Completed,Cash,North
+FIN0232,2024-05-02 00:00:00,Expense,Travel,IT,Travel transaction - IT,7616.45,Completed,Cash,West
+FIN0242,2024-05-03 00:00:00,Expense,Software,Operations,Software transaction - Operations,8272.4,Completed,Bank Transfer,South
+FIN0406,2024-05-04 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,48160.93,Completed,UPI,North
+FIN0440,2024-05-06 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,35541.43,Completed,Credit Card,Central
+FIN0365,2024-05-07 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,23767.26,Completed,Bank Transfer,West
+FIN0102,2024-05-08 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,7174.62,Completed,Credit Card,East
+FIN0221,2024-05-09 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,9151.65,Completed,Cash,Central
+FIN0018,2024-05-10 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,46363.14,Completed,UPI,Central
+FIN0045,2024-05-10 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,29305.08,Completed,Credit Card,Central
+FIN0281,2024-05-10 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,34103.79,Completed,UPI,North
+FIN0593,2024-05-12 00:00:00,Expense,Salaries,IT,Salaries transaction - IT,12542.29,Completed,Bank Transfer,West
+FIN0311,2024-05-14 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,24167.4,Completed,Credit Card,East
+FIN0118,2024-05-14 00:00:00,Expense,Software,HR,Software transaction - HR,12092.73,Completed,Bank Transfer,Central
+FIN0106,2024-05-18 00:00:00,Expense,Logistics,Marketing,Logistics transaction - Marketing,12401.36,Completed,Cash,West
+FIN0397,2024-05-22 00:00:00,Expense,Travel,IT,Travel transaction - IT,1447.86,Completed,Cash,East
+FIN0239,2024-05-23 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,13395.63,Completed,UPI,East
+FIN0574,2024-05-23 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,1476.1,Completed,UPI,South
+FIN0265,2024-05-23 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,15429.21,Completed,Cash,Central
+FIN0583,2024-05-23 00:00:00,Expense,Software,IT,Software transaction - IT,5093.58,Completed,Credit Card,Central
+FIN0251,2024-05-26 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,623.8,Pending,Cash,South
+FIN0252,2024-05-27 00:00:00,Revenue,Consulting,Finance,Consulting transaction - Finance,14189.76,Completed,Cash,North
+FIN0407,2024-05-29 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,28608.28,Completed,UPI,Central
+FIN0582,2024-05-30 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,5406.52,Completed,UPI,East
+FIN0260,2024-05-30 00:00:00,Expense,Office Supplies,Finance,Office Supplies transaction - Finance,5263.68,Completed,Bank Transfer,South
+FIN0283,2024-05-31 00:00:00,Expense,Software,IT,Software transaction - IT,2961.87,Completed,UPI,North
+FIN0299,2024-06-01 00:00:00,Expense,Software,IT,Software transaction - IT,9054.51,Completed,Cash,West
+FIN0460,2024-06-02 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,61944.7,Completed,Cash,North
+FIN0375,2024-06-03 00:00:00,Expense,Software,Operations,Software transaction - Operations,3690.72,Pending,Cash,North
+FIN0097,2024-06-05 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,13016.24,Completed,Bank Transfer,North
+FIN0344,2024-06-06 00:00:00,Expense,Salaries,IT,Salaries transaction - IT,2999.56,Completed,Credit Card,North
+FIN0275,2024-06-08 00:00:00,Expense,Software,IT,Software transaction - IT,1830.76,Completed,Credit Card,West
+FIN0495,2024-06-08 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,7861.34,Completed,Credit Card,South
+FIN0155,2024-06-08 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,18187.27,Completed,Credit Card,North
+FIN0305,2024-06-09 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,16003.65,Completed,Bank Transfer,East
+FIN0362,2024-06-09 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,3356.87,Completed,Bank Transfer,West
+FIN0027,2024-06-09 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,92079.3,Completed,Credit Card,East
+FIN0078,2024-06-10 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,13153.65,Completed,UPI,West
+FIN0594,2024-06-11 00:00:00,Expense,Rent,IT,Rent transaction - IT,1605.21,Completed,Credit Card,North
+FIN0302,2024-06-11 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,5634.87,Completed,Cash,East
+FIN0049,2024-06-15 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,30291.33,Completed,Cash,East
+FIN0508,2024-06-16 00:00:00,Expense,Travel,Marketing,Travel transaction - Marketing,7138.81,Completed,Bank Transfer,North
+FIN0151,2024-06-19 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,9330.15,Completed,Cash,West
+FIN0342,2024-06-20 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,14604.82,Completed,UPI,South
+FIN0381,2024-06-24 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,1442.93,Completed,Bank Transfer,North
+FIN0561,2024-06-25 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,24931.7,Completed,UPI,South
+FIN0484,2024-06-28 00:00:00,Expense,Office Supplies,Marketing,Office Supplies transaction - Marketing,7166.72,Completed,Cash,East
+FIN0355,2024-06-29 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,28677.93,Completed,Cash,East
+FIN0231,2024-07-02 00:00:00,Expense,Office Supplies,Finance,Office Supplies transaction - Finance,1655.57,Completed,Cash,North
+FIN0589,2024-07-04 00:00:00,Expense,Office Supplies,Marketing,Office Supplies transaction - Marketing,5604.03,Completed,Cash,West
+FIN0243,2024-07-05 00:00:00,Expense,Software,Sales,Software transaction - Sales,18640,Completed,Cash,West
+FIN0093,2024-07-06 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,37878.82,Pending,Bank Transfer,South
+FIN0454,2024-07-07 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,37565.3,Completed,UPI,East
+FIN0174,2024-07-08 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,58253.77,Completed,UPI,Central
+FIN0405,2024-07-08 00:00:00,Expense,Software,Finance,Software transaction - Finance,2469.12,Completed,Bank Transfer,East
+FIN0546,2024-07-08 00:00:00,Expense,Software,Operations,Software transaction - Operations,2114.16,Completed,Cash,West
+FIN0039,2024-07-08 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,2703.3,Completed,UPI,North
+FIN0360,2024-07-09 00:00:00,Revenue,Consulting,Finance,Consulting transaction - Finance,18069.53,Completed,Cash,East
+FIN0025,2024-07-10 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,9537.74,Completed,Cash,East
+FIN0338,2024-07-10 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,1196.21,Completed,Cash,Central
+FIN0539,2024-07-10 00:00:00,Expense,Logistics,HR,Logistics transaction - HR,15995.95,Completed,Bank Transfer,South
+FIN0312,2024-07-13 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,4852.56,Completed,Bank Transfer,North
+FIN0526,2024-07-14 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,25191.99,Pending,Cash,North
+FIN0423,2024-07-14 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,1535.48,Cancelled,Bank Transfer,West
+FIN0237,2024-07-16 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3178.41,Completed,UPI,North
+FIN0241,2024-07-19 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,9517.51,Completed,Cash,North
+FIN0119,2024-07-19 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,9400.44,Completed,Bank Transfer,East
+FIN0079,2024-07-20 00:00:00,Expense,Marketing,Finance,Marketing transaction - Finance,2592.12,Completed,Credit Card,East
+FIN0230,2024-07-21 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,1583.13,Pending,Cash,East
+FIN0471,2024-07-22 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,3622.75,Completed,Cash,East
+FIN0065,2024-07-24 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,6335.73,Pending,Credit Card,South
+FIN0138,2024-07-25 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,4888.46,Completed,UPI,East
+FIN0280,2024-07-26 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,7361.85,Completed,Cash,South
+FIN0011,2024-08-02 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,6849,Completed,Cash,Central
+FIN0595,2024-08-02 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3832.62,Completed,Cash,West
+FIN0092,2024-08-04 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,16701.42,Completed,Credit Card,North
+FIN0552,2024-08-04 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,2407.07,Completed,UPI,Central
+FIN0134,2024-08-05 00:00:00,Expense,Software,Sales,Software transaction - Sales,1683.59,Pending,UPI,West
+FIN0472,2024-08-05 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,1278.73,Completed,Credit Card,South
+FIN0343,2024-08-07 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,16780.28,Completed,Bank Transfer,Central
+FIN0466,2024-08-07 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,2365.75,Completed,UPI,East
+FIN0215,2024-08-07 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,12753.99,Completed,Bank Transfer,Central
+FIN0485,2024-08-10 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,12488.28,Completed,Cash,East
+FIN0591,2024-08-10 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,55103.76,Completed,Cash,West
+FIN0175,2024-08-12 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,1261.51,Completed,UPI,South
+FIN0189,2024-08-12 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,15057.53,Completed,Credit Card,South
+FIN0217,2024-08-12 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,57424.07,Completed,Credit Card,West
+FIN0329,2024-08-13 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,10011.51,Completed,Cash,Central
+FIN0294,2024-08-14 00:00:00,Expense,Marketing,IT,Marketing transaction - IT,2047.05,Completed,Bank Transfer,Central
+FIN0323,2024-08-17 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,30196.4,Completed,Credit Card,East
+FIN0149,2024-08-18 00:00:00,Expense,Software,Sales,Software transaction - Sales,2626.83,Completed,Bank Transfer,West
+FIN0173,2024-08-18 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,9108.18,Completed,UPI,East
+FIN0115,2024-08-18 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,3124.26,Completed,Bank Transfer,West
+FIN0565,2024-08-20 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,29613.13,Completed,UPI,West
+FIN0277,2024-08-20 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,5516.89,Completed,UPI,Central
+FIN0197,2024-08-20 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,6389.79,Completed,Credit Card,Central
+FIN0190,2024-08-21 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,2596.96,Completed,Bank Transfer,West
+FIN0596,2024-08-22 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,2988.82,Completed,Cash,East
+FIN0452,2024-08-24 00:00:00,Expense,Travel,IT,Travel transaction - IT,9513.75,Completed,Credit Card,North
+FIN0144,2024-08-28 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,4594.67,Completed,UPI,West
+FIN0055,2024-08-29 00:00:00,Expense,Utilities,Finance,Utilities transaction - Finance,2652.33,Completed,Bank Transfer,East
+FIN0157,2024-08-30 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,76444.91,Completed,UPI,East
+FIN0043,2024-08-31 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,31329.65,Completed,Bank Transfer,South
+FIN0380,2024-09-02 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,27293.48,Pending,Credit Card,South
+FIN0228,2024-09-03 00:00:00,Expense,Logistics,Operations,Logistics transaction - Operations,13975.12,Completed,Credit Card,East
+FIN0458,2024-09-03 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,100776.99,Cancelled,Bank Transfer,Central
+FIN0085,2024-09-08 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,5308.42,Completed,UPI,North
+FIN0361,2024-09-09 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,4746.45,Completed,Bank Transfer,East
+FIN0031,2024-09-09 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,4087.89,Completed,Cash,South
+FIN0516,2024-09-09 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,2752.46,Completed,UPI,West
+FIN0479,2024-09-10 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,2699.85,Completed,Credit Card,Central
+FIN0293,2024-09-10 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,33188.95,Completed,UPI,West
+FIN0271,2024-09-10 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,2722.32,Pending,Cash,South
+FIN0363,2024-09-12 00:00:00,Expense,Travel,Marketing,Travel transaction - Marketing,4502.48,Completed,Bank Transfer,East
+FIN0493,2024-09-14 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,37194.98,Completed,Cash,South
+FIN0181,2024-09-15 00:00:00,Expense,Marketing,Finance,Marketing transaction - Finance,2133.02,Completed,Cash,Central
+FIN0264,2024-09-19 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,3506.28,Completed,UPI,West
+FIN0417,2024-09-20 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,7251.46,Completed,Cash,East
+FIN0567,2024-09-21 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,2117.58,Completed,Bank Transfer,West
+FIN0505,2024-09-24 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,33180.52,Completed,Cash,South
+FIN0203,2024-09-24 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,5301.66,Completed,UPI,South
+FIN0427,2024-09-25 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,13530.82,Completed,Bank Transfer,South
+FIN0080,2024-09-26 00:00:00,Expense,Software,HR,Software transaction - HR,7200.14,Completed,Cash,North
+FIN0003,2024-09-27 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,20029.48,Completed,Credit Card,East
+FIN0081,2024-09-27 00:00:00,Expense,Software,Sales,Software transaction - Sales,4056.88,Cancelled,UPI,North
+FIN0453,2024-09-28 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,18872.09,Completed,Cash,East
+FIN0553,2024-09-29 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,22176.46,Completed,Credit Card,South
+FIN0050,2024-09-30 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,39089.74,Completed,Credit Card,West
+FIN0308,2024-10-03 00:00:00,Expense,Software,IT,Software transaction - IT,1088.23,Completed,Credit Card,West
+FIN0330,2024-10-03 00:00:00,Expense,Logistics,HR,Logistics transaction - HR,12432.63,Completed,Bank Transfer,North
+FIN0535,2024-10-03 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,26323.87,Completed,Credit Card,Central
+FIN0026,2024-10-03 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,28313.35,Completed,UPI,West
+FIN0551,2024-10-05 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,1806.7,Completed,Bank Transfer,Central
+FIN0351,2024-10-06 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,4800.36,Completed,Credit Card,West
+FIN0235,2024-10-06 00:00:00,Expense,Rent,IT,Rent transaction - IT,5591.52,Completed,UPI,Central
+FIN0178,2024-10-09 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,22810.56,Completed,UPI,West
+FIN0327,2024-10-09 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,24362.86,Completed,Credit Card,Central
+FIN0332,2024-10-10 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,7576.32,Completed,Cash,East
+FIN0511,2024-10-11 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,17195.74,Completed,UPI,South
+FIN0465,2024-10-11 00:00:00,Expense,Software,Operations,Software transaction - Operations,3209.7,Completed,UPI,West
+FIN0372,2024-10-14 00:00:00,Expense,Software,Sales,Software transaction - Sales,1584.19,Completed,Cash,Central
+FIN0112,2024-10-15 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,11551.11,Completed,UPI,North
+FIN0478,2024-10-15 00:00:00,Expense,Software,Operations,Software transaction - Operations,1497.21,Cancelled,Cash,West
+FIN0234,2024-10-20 00:00:00,Expense,Software,HR,Software transaction - HR,1192.29,Completed,UPI,West
+FIN0087,2024-10-22 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,64360.04,Completed,Credit Card,West
+FIN0262,2024-10-24 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,7681.84,Completed,Bank Transfer,North
+FIN0354,2024-10-28 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,34431.66,Completed,Credit Card,North
+FIN0515,2024-10-28 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,28087.85,Completed,Bank Transfer,North
+FIN0270,2024-10-30 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,5056.98,Completed,Cash,West
+FIN0411,2024-10-31 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,5879.89,Completed,Cash,North
+FIN0020,2024-11-04 00:00:00,Expense,Software,Operations,Software transaction - Operations,3058.34,Completed,Bank Transfer,North
+FIN0408,2024-11-09 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,6952.22,Completed,Cash,North
+FIN0029,2024-11-09 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,2540.53,Completed,Bank Transfer,East
+FIN0053,2024-11-11 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,25074.03,Completed,Credit Card,East
+FIN0187,2024-11-13 00:00:00,Expense,Software,Sales,Software transaction - Sales,1537.37,Completed,Bank Transfer,North
+FIN0392,2024-11-16 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,45556.89,Completed,Credit Card,Central
+FIN0369,2024-11-18 00:00:00,Expense,Utilities,IT,Utilities transaction - IT,1208.92,Completed,Cash,South
+FIN0364,2024-11-18 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,4426.25,Completed,Bank Transfer,Central
+FIN0489,2024-11-20 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,2993.88,Completed,Credit Card,West
+FIN0244,2024-11-21 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,18281.18,Completed,Bank Transfer,West
+FIN0012,2024-11-26 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,2587.01,Completed,Bank Transfer,North
+FIN0168,2024-11-26 00:00:00,Expense,Utilities,Finance,Utilities transaction - Finance,4446.86,Completed,UPI,Central
+FIN0492,2024-12-01 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,5563.89,Completed,UPI,West
+FIN0300,2024-12-03 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,7486.71,Completed,UPI,North
+FIN0090,2024-12-03 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,7221.86,Completed,UPI,West
+FIN0257,2024-12-03 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,753.13,Completed,UPI,South
+FIN0167,2024-12-05 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,37407.67,Completed,Cash,East
+FIN0058,2024-12-05 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,17357.58,Completed,UPI,West
+FIN0475,2024-12-06 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,5074.66,Completed,Cash,North
+FIN0410,2024-12-07 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,24864.84,Completed,Credit Card,West
+FIN0557,2024-12-07 00:00:00,Expense,Office Supplies,Finance,Office Supplies transaction - Finance,3375.81,Completed,UPI,East
+FIN0101,2024-12-09 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,2385.39,Completed,Cash,Central
+FIN0021,2024-12-09 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,30532.84,Completed,UPI,West
+FIN0056,2024-12-11 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,4733.8,Completed,Bank Transfer,East
+FIN0249,2024-12-11 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,12193.17,Completed,Credit Card,North
+FIN0437,2024-12-11 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,28993.5,Pending,Bank Transfer,East
+FIN0266,2024-12-11 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,21324.57,Completed,UPI,Central
+FIN0171,2024-12-13 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,6084.11,Completed,Credit Card,North
+FIN0352,2024-12-14 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,74630.67,Completed,Bank Transfer,East
+FIN0246,2024-12-14 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,8512.26,Completed,Cash,East
+FIN0424,2024-12-15 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,31030.17,Completed,Bank Transfer,East
+FIN0399,2024-12-19 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,2381.72,Completed,Credit Card,North
+FIN0480,2024-12-22 00:00:00,Expense,Rent,HR,Rent transaction - HR,3487.18,Completed,Credit Card,South
+FIN0182,2024-12-24 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,3301.98,Completed,Bank Transfer,West
+FIN0324,2024-12-30 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,27722.59,Completed,Credit Card,East
+FIN0060,2025-01-01 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,20454.55,Completed,Bank Transfer,West
+FIN0573,2025-01-01 00:00:00,Expense,Marketing,Finance,Marketing transaction - Finance,2829.16,Completed,UPI,Central
+FIN0548,2025-01-03 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,20223.64,Completed,UPI,West
+FIN0428,2025-01-04 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,3431.45,Completed,Bank Transfer,North
+FIN0015,2025-01-07 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,5123.94,Completed,Bank Transfer,Central
+FIN0347,2025-01-07 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,20433.97,Completed,Credit Card,Central
+FIN0193,2025-01-08 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,8086.77,Cancelled,Credit Card,North
+FIN0319,2025-01-09 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,14813.78,Completed,Bank Transfer,North
+FIN0532,2025-01-10 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,13086.77,Pending,Cash,South
+FIN0177,2025-01-11 00:00:00,Expense,Salaries,IT,Salaries transaction - IT,3465.78,Completed,UPI,South
+FIN0113,2025-01-13 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,845.83,Completed,Bank Transfer,North
+FIN0500,2025-01-14 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,53327.24,Completed,Bank Transfer,South
+FIN0094,2025-01-14 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,5195.44,Completed,Cash,East
+FIN0570,2025-01-18 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,4979.51,Completed,Bank Transfer,South
+FIN0176,2025-01-19 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,4068.91,Completed,UPI,Central
+FIN0218,2025-01-19 00:00:00,Expense,Office Supplies,IT,Office Supplies transaction - IT,3284.45,Completed,Bank Transfer,Central
+FIN0024,2025-01-20 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,3403.89,Pending,Credit Card,North
+FIN0205,2025-01-20 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,13835.33,Completed,Cash,Central
+FIN0377,2025-01-20 00:00:00,Expense,Travel,Marketing,Travel transaction - Marketing,3691.91,Completed,UPI,West
+FIN0206,2025-01-21 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,9147.71,Completed,Bank Transfer,South
+FIN0051,2025-01-22 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,19195.53,Completed,UPI,Central
+FIN0068,2025-01-22 00:00:00,Expense,Software,Sales,Software transaction - Sales,3287.26,Completed,Bank Transfer,West
+FIN0070,2025-01-24 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,22755.68,Completed,Bank Transfer,Central
+FIN0109,2025-01-26 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,1312.29,Completed,Credit Card,North
+FIN0310,2025-01-26 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,30232.68,Completed,Bank Transfer,North
+FIN0441,2025-01-27 00:00:00,Expense,Rent,IT,Rent transaction - IT,1274.12,Completed,Bank Transfer,West
+FIN0379,2025-01-27 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,3767,Pending,UPI,South
+FIN0137,2025-01-27 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,6832.62,Completed,UPI,East
+FIN0537,2025-01-28 00:00:00,Expense,Software,IT,Software transaction - IT,6389.29,Completed,Credit Card,East
+FIN0577,2025-01-30 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,1426.25,Completed,Credit Card,South
+FIN0563,2025-01-30 00:00:00,Expense,Travel,IT,Travel transaction - IT,2813.31,Completed,Credit Card,South
+FIN0558,2025-01-31 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,3010.89,Completed,Credit Card,Central
+FIN0512,2025-01-31 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,21287.98,Completed,Credit Card,Central
+FIN0307,2025-02-01 00:00:00,Expense,Logistics,Marketing,Logistics transaction - Marketing,3122.64,Completed,Cash,Central
+FIN0590,2025-02-01 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,14789.38,Completed,UPI,Central
+FIN0136,2025-02-01 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,50290.49,Completed,Cash,East
+FIN0394,2025-02-03 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,32922.79,Completed,Bank Transfer,South
+FIN0313,2025-02-04 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,22744.83,Completed,Bank Transfer,North
+FIN0233,2025-02-04 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,25899.75,Completed,Credit Card,Central
+FIN0075,2025-02-05 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,8606.93,Completed,UPI,North
+FIN0219,2025-02-06 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,25855.99,Pending,Credit Card,West
+FIN0248,2025-02-06 00:00:00,Expense,Logistics,HR,Logistics transaction - HR,25516.93,Completed,Bank Transfer,South
+FIN0282,2025-02-07 00:00:00,Expense,Office Supplies,Marketing,Office Supplies transaction - Marketing,4788.43,Completed,UPI,East
+FIN0148,2025-02-10 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,27075.6,Completed,Cash,North
+FIN0123,2025-02-10 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,2823.94,Completed,Bank Transfer,South
+FIN0386,2025-02-11 00:00:00,Expense,Marketing,IT,Marketing transaction - IT,8570,Completed,Cash,West
+FIN0185,2025-02-14 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,4442.44,Completed,UPI,North
+FIN0531,2025-02-16 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,6423.93,Completed,Cash,West
+FIN0023,2025-02-17 00:00:00,Expense,Software,Operations,Software transaction - Operations,6392.92,Completed,Credit Card,East
+FIN0261,2025-02-18 00:00:00,Expense,Logistics,Marketing,Logistics transaction - Marketing,8710.69,Completed,Bank Transfer,Central
+FIN0227,2025-02-19 00:00:00,Expense,Logistics,Finance,Logistics transaction - Finance,5032.4,Cancelled,Credit Card,Central
+FIN0507,2025-02-20 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,3279.74,Cancelled,Credit Card,North
+FIN0523,2025-02-21 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,31964.63,Completed,UPI,North
+FIN0111,2025-02-22 00:00:00,Expense,Software,Finance,Software transaction - Finance,2856.32,Completed,Credit Card,North
+FIN0533,2025-02-23 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,18871.61,Completed,Credit Card,East
+FIN0290,2025-02-23 00:00:00,Expense,Software,Sales,Software transaction - Sales,2315.38,Pending,UPI,North
+FIN0291,2025-02-25 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,14370.53,Completed,Bank Transfer,Central
+FIN0503,2025-03-02 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,2528.8,Completed,Credit Card,Central
+FIN0062,2025-03-03 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,4211.29,Completed,Credit Card,North
+FIN0474,2025-03-07 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,15388.12,Completed,UPI,North
+FIN0462,2025-03-10 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,36832.73,Completed,UPI,South
+FIN0002,2025-03-11 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,2618.84,Completed,Cash,Central
+FIN0326,2025-03-13 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,8873.07,Completed,Credit Card,West
+FIN0229,2025-03-14 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,21439.23,Completed,Cash,South
+FIN0487,2025-03-17 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,6468.88,Completed,Bank Transfer,West
+FIN0201,2025-03-17 00:00:00,Expense,Logistics,Sales,Logistics transaction - Sales,9695.18,Completed,Cash,South
+FIN0415,2025-03-19 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,5734.4,Completed,Cash,East
+FIN0564,2025-03-20 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,3063.29,Completed,Credit Card,West
+FIN0456,2025-03-22 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,14150.25,Completed,Bank Transfer,South
+FIN0470,2025-03-28 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,59922.16,Completed,UPI,West
+FIN0273,2025-03-28 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,19022.62,Completed,Cash,Central
+FIN0334,2025-03-28 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,28944.53,Pending,Bank Transfer,East
+FIN0061,2025-03-30 00:00:00,Expense,Software,Operations,Software transaction - Operations,4977.37,Completed,Credit Card,North
+FIN0568,2025-03-30 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,73152.1,Completed,Bank Transfer,North
+FIN0184,2025-03-31 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,16404.71,Completed,Cash,West
+FIN0082,2025-03-31 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,4054.37,Completed,Bank Transfer,North
+FIN0538,2025-04-01 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,24140.93,Completed,Cash,South
+FIN0013,2025-04-03 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,44720.37,Completed,Cash,South
+FIN0028,2025-04-04 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,24945.69,Completed,Credit Card,Central
+FIN0317,2025-04-04 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,5131.97,Completed,UPI,North
+FIN0141,2025-04-05 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,13879.24,Cancelled,Credit Card,South
+FIN0131,2025-04-06 00:00:00,Expense,Utilities,IT,Utilities transaction - IT,1096.19,Completed,Credit Card,South
+FIN0083,2025-04-06 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,12400.94,Completed,Credit Card,Central
+FIN0245,2025-04-08 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,3839.19,Completed,Credit Card,North
+FIN0010,2025-04-11 00:00:00,Expense,Marketing,Finance,Marketing transaction - Finance,2211.05,Completed,Cash,West
+FIN0579,2025-04-13 00:00:00,Expense,Software,Sales,Software transaction - Sales,8635.32,Completed,Cash,Central
+FIN0318,2025-04-14 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,5002.28,Completed,UPI,North
+FIN0396,2025-04-15 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,13216.23,Completed,UPI,South
+FIN0196,2025-04-16 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,5114.35,Completed,Cash,East
+FIN0104,2025-04-16 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,15402.67,Completed,Credit Card,North
+FIN0172,2025-04-17 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,23976.28,Completed,Bank Transfer,East
+FIN0259,2025-04-17 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,11959.49,Completed,UPI,East
+FIN0297,2025-04-17 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,5567.13,Completed,Cash,West
+FIN0438,2025-04-18 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,10391.45,Cancelled,Cash,East
+FIN0473,2025-04-18 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,18655.68,Completed,Cash,Central
+FIN0033,2025-04-19 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,28552.64,Completed,Credit Card,South
+FIN0496,2025-04-19 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,4424.24,Completed,Cash,Central
+FIN0037,2025-04-20 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,9524.59,Completed,Bank Transfer,West
+FIN0383,2025-04-21 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,29752.92,Completed,Cash,East
+FIN0073,2025-04-21 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,34831.35,Completed,UPI,West
+FIN0345,2025-04-21 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,2347.57,Completed,UPI,West
+FIN0333,2025-04-25 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,2554.11,Completed,UPI,West
+FIN0580,2025-04-28 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,26166.92,Completed,Cash,South
+FIN0147,2025-04-29 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,30156.53,Completed,Cash,East
+FIN0046,2025-04-29 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,1028.43,Completed,Bank Transfer,North
+FIN0451,2025-05-02 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,19501.47,Completed,Bank Transfer,North
+FIN0254,2025-05-03 00:00:00,Expense,Utilities,Marketing,Utilities transaction - Marketing,4430.04,Completed,Credit Card,West
+FIN0376,2025-05-04 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,25006.36,Completed,Credit Card,North
+FIN0114,2025-05-04 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,13587.37,Completed,Cash,North
+FIN0022,2025-05-06 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,8009.07,Completed,UPI,East
+FIN0529,2025-05-07 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,69128.67,Completed,UPI,North
+FIN0095,2025-05-07 00:00:00,Expense,Travel,IT,Travel transaction - IT,6276.1,Cancelled,Credit Card,North
+FIN0200,2025-05-11 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,15586.1,Completed,UPI,South
+FIN0494,2025-05-11 00:00:00,Expense,Logistics,Sales,Logistics transaction - Sales,10402.88,Completed,Cash,West
+FIN0353,2025-05-11 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,5226.73,Completed,Bank Transfer,North
+FIN0107,2025-05-13 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,30022.23,Cancelled,UPI,East
+FIN0517,2025-05-13 00:00:00,Expense,Logistics,Operations,Logistics transaction - Operations,38312.84,Completed,Cash,Central
+FIN0527,2025-05-15 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,2570.95,Completed,Cash,South
+FIN0122,2025-05-17 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,27452.89,Completed,Cash,South
+FIN0135,2025-05-17 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,22174.78,Completed,Bank Transfer,North
+FIN0309,2025-05-18 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,2849.65,Completed,Bank Transfer,West
+FIN0044,2025-05-19 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,2143.92,Completed,Cash,Central
+FIN0170,2025-05-20 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,19171.71,Completed,Credit Card,East
+FIN0572,2025-05-20 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,73908.15,Completed,Bank Transfer,South
+FIN0388,2025-05-20 00:00:00,Expense,Software,Finance,Software transaction - Finance,4775.34,Completed,UPI,Central
+FIN0063,2025-05-23 00:00:00,Expense,Logistics,Sales,Logistics transaction - Sales,5085.34,Completed,UPI,North
+FIN0296,2025-05-24 00:00:00,Expense,Salaries,IT,Salaries transaction - IT,16271.3,Completed,Bank Transfer,West
+FIN0204,2025-05-24 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,16525.81,Cancelled,Cash,South
+FIN0250,2025-05-25 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,10819.51,Completed,Credit Card,South
+FIN0238,2025-05-25 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,2094.69,Completed,Credit Card,North
+FIN0035,2025-05-25 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,30992.52,Completed,Bank Transfer,West
+FIN0393,2025-05-26 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,15274.8,Completed,Bank Transfer,West
+FIN0340,2025-05-26 00:00:00,Expense,Travel,Finance,Travel transaction - Finance,1804.79,Completed,Cash,Central
+FIN0445,2025-05-27 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,35271.57,Completed,UPI,East
+FIN0336,2025-05-30 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,54330.43,Completed,Bank Transfer,East
+FIN0490,2025-05-30 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,542.5,Completed,Credit Card,East
+FIN0348,2025-06-01 00:00:00,Expense,Logistics,Sales,Logistics transaction - Sales,2671.37,Completed,Cash,East
+FIN0100,2025-06-04 00:00:00,Expense,Rent,IT,Rent transaction - IT,8461.77,Completed,UPI,West
+FIN0482,2025-06-05 00:00:00,Expense,Marketing,IT,Marketing transaction - IT,5858.89,Completed,Bank Transfer,East
+FIN0550,2025-06-08 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,14265.37,Completed,UPI,Central
+FIN0154,2025-06-08 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,8929,Completed,Credit Card,South
+FIN0387,2025-06-08 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,40513.03,Completed,Bank Transfer,South
+FIN0385,2025-06-21 00:00:00,Expense,Software,HR,Software transaction - HR,2133.29,Completed,UPI,Central
+FIN0152,2025-06-24 00:00:00,Expense,Marketing,HR,Marketing transaction - HR,13374.82,Completed,UPI,East
+FIN0501,2025-06-28 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,2815.01,Completed,UPI,West
+FIN0129,2025-06-30 00:00:00,Expense,Software,HR,Software transaction - HR,2275.07,Completed,UPI,North
+FIN0337,2025-06-30 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,871.53,Completed,UPI,West
+FIN0542,2025-07-01 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,31927.7,Completed,UPI,West
+FIN0256,2025-07-04 00:00:00,Expense,Software,Sales,Software transaction - Sales,1998.52,Completed,UPI,West
+FIN0476,2025-07-04 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,38824.99,Completed,Credit Card,Central
+FIN0140,2025-07-07 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,22610.78,Completed,Bank Transfer,North
+FIN0166,2025-07-09 00:00:00,Expense,Travel,Finance,Travel transaction - Finance,5056.99,Completed,Bank Transfer,South
+FIN0510,2025-07-09 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,11213.54,Completed,Bank Transfer,South
+FIN0077,2025-07-09 00:00:00,Expense,Software,IT,Software transaction - IT,2375.11,Completed,UPI,South
+FIN0161,2025-07-10 00:00:00,Expense,Software,Operations,Software transaction - Operations,4076.69,Completed,Cash,South
+FIN0449,2025-07-13 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,22902.95,Completed,Bank Transfer,South
+FIN0032,2025-07-14 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,3726.27,Completed,Credit Card,East
+FIN0067,2025-07-15 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,46283.75,Completed,UPI,East
+FIN0041,2025-07-16 00:00:00,Expense,Rent,HR,Rent transaction - HR,2502.63,Completed,UPI,North
+FIN0325,2025-07-16 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,28246.25,Completed,Cash,South
+FIN0571,2025-07-17 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,39213.99,Completed,UPI,East
+FIN0202,2025-07-17 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,19020.73,Completed,UPI,South
+FIN0145,2025-07-17 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,14029.53,Completed,Credit Card,East
+FIN0581,2025-07-18 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,13093.09,Completed,Bank Transfer,West
+FIN0057,2025-07-18 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,3055.14,Completed,Bank Transfer,Central
+FIN0071,2025-07-19 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,19144.34,Completed,Cash,North
+FIN0216,2025-07-19 00:00:00,Expense,Travel,Finance,Travel transaction - Finance,5306.08,Completed,Bank Transfer,West
+FIN0367,2025-07-19 00:00:00,Expense,Logistics,HR,Logistics transaction - HR,6590.26,Completed,UPI,North
+FIN0042,2025-07-20 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,5949.15,Completed,Cash,Central
+FIN0584,2025-07-22 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,37614.62,Completed,Cash,Central
+FIN0409,2025-07-23 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3046.09,Completed,Bank Transfer,North
+FIN0368,2025-07-23 00:00:00,Expense,Software,Sales,Software transaction - Sales,1907.74,Completed,Cash,South
+FIN0419,2025-07-25 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,18005.35,Pending,Bank Transfer,North
+FIN0268,2025-07-25 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,12586.12,Completed,Cash,North
+FIN0124,2025-07-27 00:00:00,Revenue,Consulting,Finance,Consulting transaction - Finance,15233.66,Completed,Cash,West
+FIN0162,2025-07-27 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,15522.89,Pending,Bank Transfer,North
+FIN0404,2025-07-28 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,4918.13,Completed,Cash,East
+FIN0143,2025-07-28 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,59670.26,Completed,Credit Card,West
+FIN0506,2025-07-30 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,4386.88,Completed,Bank Transfer,South
+FIN0159,2025-07-31 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,11203.52,Completed,Credit Card,West
+FIN0306,2025-08-02 00:00:00,Expense,Logistics,HR,Logistics transaction - HR,13317.72,Completed,UPI,East
+FIN0457,2025-08-03 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,40214.7,Completed,Bank Transfer,Central
+FIN0288,2025-08-09 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,62625.95,Cancelled,Credit Card,East
+FIN0598,2025-08-10 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,12942.12,Completed,Credit Card,West
+FIN0108,2025-08-15 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,1344.61,Cancelled,UPI,West
+FIN0555,2025-08-18 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,5744.3,Completed,UPI,East
+FIN0052,2025-08-23 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,45052.28,Completed,Bank Transfer,North
+FIN0450,2025-08-23 00:00:00,Expense,Software,HR,Software transaction - HR,7126.15,Completed,Bank Transfer,North
+FIN0522,2025-08-24 00:00:00,Expense,Travel,IT,Travel transaction - IT,9772,Completed,Credit Card,South
+FIN0435,2025-08-26 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,4855.39,Completed,Cash,East
+FIN0521,2025-08-27 00:00:00,Expense,Salaries,IT,Salaries transaction - IT,13411.69,Completed,UPI,North
+FIN0514,2025-08-29 00:00:00,Expense,Office Supplies,Marketing,Office Supplies transaction - Marketing,10476.33,Completed,Credit Card,West
+FIN0356,2025-08-29 00:00:00,Expense,Rent,Marketing,Rent transaction - Marketing,3251.83,Completed,Cash,West
+FIN0195,2025-08-30 00:00:00,Expense,Travel,Operations,Travel transaction - Operations,2346.33,Completed,Credit Card,North
+FIN0488,2025-08-30 00:00:00,Expense,Logistics,Finance,Logistics transaction - Finance,16355.3,Pending,UPI,West
+FIN0240,2025-08-31 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,1773.84,Completed,Credit Card,East
+FIN0331,2025-08-31 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,13022.7,Completed,Bank Transfer,West
+FIN0236,2025-09-01 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,48503.24,Completed,Cash,South
+FIN0263,2025-09-02 00:00:00,Expense,Utilities,Operations,Utilities transaction - Operations,1598.59,Pending,Cash,North
+FIN0562,2025-09-03 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,32241.11,Completed,Cash,South
+FIN0477,2025-09-03 00:00:00,Expense,Travel,IT,Travel transaction - IT,4920.1,Completed,UPI,Central
+FIN0130,2025-09-04 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,5856.13,Pending,Cash,Central
+FIN0416,2025-09-04 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,4786.87,Completed,Cash,West
+FIN0504,2025-09-04 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,17076.38,Completed,Bank Transfer,Central
+FIN0208,2025-09-04 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,21208.66,Completed,UPI,Central
+FIN0008,2025-09-06 00:00:00,Expense,Travel,Marketing,Travel transaction - Marketing,4688.96,Completed,Bank Transfer,South
+FIN0525,2025-09-08 00:00:00,Expense,Salaries,HR,Salaries transaction - HR,2786.11,Completed,Bank Transfer,Central
+FIN0420,2025-09-11 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,1584.33,Completed,Credit Card,South
+FIN0165,2025-09-11 00:00:00,Expense,Software,Operations,Software transaction - Operations,2261.44,Completed,UPI,Central
+FIN0267,2025-09-15 00:00:00,Expense,Software,HR,Software transaction - HR,3011.89,Cancelled,Credit Card,North
+FIN0209,2025-09-16 00:00:00,Revenue,Service Revenue,IT,Service Revenue transaction - IT,19586.71,Completed,UPI,South
+FIN0289,2025-09-16 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,36814.16,Cancelled,UPI,South
+FIN0528,2025-09-17 00:00:00,Expense,Travel,HR,Travel transaction - HR,4596.24,Pending,Credit Card,South
+FIN0371,2025-09-17 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,11345.21,Completed,UPI,West
+FIN0180,2025-09-19 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,21058.9,Completed,Bank Transfer,North
+FIN0287,2025-09-19 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,5637.37,Completed,Cash,West
+FIN0179,2025-09-24 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,2284.81,Cancelled,Credit Card,North
+FIN0444,2025-09-25 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,21827.05,Pending,Bank Transfer,Central
+FIN0592,2025-09-25 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,68726.21,Completed,Credit Card,North
+FIN0429,2025-09-27 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,3166.27,Completed,Credit Card,North
+FIN0447,2025-09-29 00:00:00,Expense,Travel,IT,Travel transaction - IT,2643.11,Completed,Bank Transfer,West
+FIN0220,2025-09-29 00:00:00,Revenue,Product Sales,HR,Product Sales transaction - HR,19895.11,Completed,Cash,Central
+FIN0374,2025-09-30 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,24314.91,Pending,Credit Card,West
+FIN0255,2025-10-01 00:00:00,Revenue,Consulting,Finance,Consulting transaction - Finance,13875.02,Completed,Credit Card,North
+FIN0314,2025-10-01 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,14623.26,Completed,UPI,South
+FIN0169,2025-10-01 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,14695.25,Completed,Bank Transfer,North
+FIN0442,2025-10-02 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,7190.08,Completed,Bank Transfer,Central
+FIN0258,2025-10-02 00:00:00,Expense,Rent,Finance,Rent transaction - Finance,6468.05,Completed,UPI,Central
+FIN0214,2025-10-03 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,15615.69,Completed,UPI,Central
+FIN0132,2025-10-04 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,21773.23,Completed,UPI,West
+FIN0163,2025-10-07 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,56594.43,Completed,Credit Card,East
+FIN0047,2025-10-08 00:00:00,Expense,Office Supplies,Operations,Office Supplies transaction - Operations,3169.77,Completed,Cash,West
+FIN0103,2025-10-09 00:00:00,Expense,Travel,Marketing,Travel transaction - Marketing,19702.64,Completed,Bank Transfer,South
+FIN0186,2025-10-10 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,14681.55,Completed,Credit Card,Central
+FIN0272,2025-10-13 00:00:00,Revenue,Service Revenue,HR,Service Revenue transaction - HR,44558.54,Completed,UPI,Central
+FIN0395,2025-10-15 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,1337.88,Completed,UPI,West
+FIN0150,2025-10-16 00:00:00,Revenue,Product Sales,IT,Product Sales transaction - IT,33405.7,Completed,Cash,Central
+FIN0426,2025-10-17 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,1419.03,Completed,Bank Transfer,West
+FIN0461,2025-10-17 00:00:00,Expense,Salaries,Operations,Salaries transaction - Operations,9738.14,Completed,UPI,West
+FIN0433,2025-10-18 00:00:00,Expense,Software,HR,Software transaction - HR,3771.07,Completed,UPI,West
+FIN0597,2025-10-19 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,21946.49,Completed,Credit Card,Central
+FIN0432,2025-10-20 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,9399.57,Completed,UPI,Central
+FIN0279,2025-10-20 00:00:00,Revenue,Consulting,Finance,Consulting transaction - Finance,10610.88,Completed,Credit Card,East
+FIN0335,2025-10-20 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,3519.9,Completed,Cash,East
+FIN0486,2025-10-20 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,40633.51,Completed,Credit Card,East
+FIN0247,2025-10-21 00:00:00,Expense,Salaries,Finance,Salaries transaction - Finance,3929.29,Completed,Cash,East
+FIN0019,2025-10-23 00:00:00,Expense,Utilities,HR,Utilities transaction - HR,379.63,Completed,Credit Card,West
+FIN0545,2025-10-24 00:00:00,Expense,Logistics,Marketing,Logistics transaction - Marketing,8564.11,Completed,UPI,South
+FIN0373,2025-10-24 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,17364.69,Completed,Cash,Central
+FIN0017,2025-10-25 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,8519.53,Completed,Credit Card,South
+FIN0497,2025-10-25 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,10265.03,Completed,UPI,Central
+FIN0192,2025-10-25 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,3202.23,Completed,Cash,South
+FIN0544,2025-10-25 00:00:00,Expense,Office Supplies,HR,Office Supplies transaction - HR,4200.08,Completed,Bank Transfer,South
+FIN0402,2025-10-26 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,16256.09,Completed,Cash,West
+FIN0431,2025-10-31 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,12513.65,Completed,Credit Card,North
+FIN0321,2025-10-31 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,13683.8,Completed,Cash,South
+FIN0225,2025-11-02 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,41523.99,Completed,Credit Card,East
+FIN0194,2025-11-02 00:00:00,Expense,Logistics,Operations,Logistics transaction - Operations,3483.08,Completed,Cash,South
+FIN0286,2025-11-03 00:00:00,Expense,Software,Sales,Software transaction - Sales,3213.09,Completed,Cash,Central
+FIN0110,2025-11-05 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,22940.97,Completed,Credit Card,North
+FIN0499,2025-11-05 00:00:00,Expense,Software,Sales,Software transaction - Sales,6393.95,Completed,UPI,Central
+FIN0536,2025-11-06 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,1726.76,Completed,Credit Card,South
+FIN0188,2025-11-07 00:00:00,Expense,Rent,Operations,Rent transaction - Operations,5938.76,Completed,Credit Card,Central
+FIN0304,2025-11-11 00:00:00,Expense,Salaries,Marketing,Salaries transaction - Marketing,7680.2,Completed,Bank Transfer,South
+FIN0160,2025-11-12 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,23466.6,Completed,Bank Transfer,North
+FIN0413,2025-11-12 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,25357.51,Completed,Credit Card,Central
+FIN0036,2025-11-12 00:00:00,Expense,Marketing,IT,Marketing transaction - IT,2061.61,Completed,UPI,West
+FIN0384,2025-11-12 00:00:00,Expense,Marketing,Operations,Marketing transaction - Operations,3383.93,Completed,Credit Card,South
+FIN0223,2025-11-14 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,3185.3,Completed,UPI,East
+FIN0191,2025-11-14 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,21536.28,Completed,Credit Card,West
+FIN0127,2025-11-14 00:00:00,Expense,Rent,Sales,Rent transaction - Sales,10072.77,Completed,Credit Card,South
+FIN0390,2025-11-15 00:00:00,Expense,Travel,Sales,Travel transaction - Sales,5969.99,Completed,Cash,East
+FIN0370,2025-11-16 00:00:00,Expense,Utilities,Sales,Utilities transaction - Sales,2940.85,Completed,Credit Card,North
+FIN0040,2025-11-17 00:00:00,Revenue,Consulting,Sales,Consulting transaction - Sales,15610.58,Completed,Cash,South
+FIN0316,2025-11-18 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,2073.49,Completed,Bank Transfer,Central
+FIN0540,2025-11-19 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,11986.53,Completed,Cash,Central
+FIN0498,2025-11-20 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,5506.4,Completed,Cash,North
+FIN0142,2025-11-21 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,1772.67,Completed,Cash,East
+FIN0502,2025-11-21 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,46723.38,Completed,Cash,East
+FIN0198,2025-11-22 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,33531.91,Completed,Bank Transfer,Central
+FIN0412,2025-11-22 00:00:00,Revenue,Service Revenue,Sales,Service Revenue transaction - Sales,41258.94,Completed,Cash,West
+FIN0587,2025-11-23 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,4106.65,Completed,UPI,Central
+FIN0549,2025-11-25 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,40384.8,Completed,UPI,South
+FIN0464,2025-11-27 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,15002.8,Completed,Cash,West
+FIN0403,2025-11-28 00:00:00,Revenue,Consulting,IT,Consulting transaction - IT,31776.17,Completed,Credit Card,Central
+FIN0559,2025-11-29 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,17130.48,Completed,Cash,Central
+FIN0156,2025-11-29 00:00:00,Expense,Logistics,Sales,Logistics transaction - Sales,6983.17,Completed,Bank Transfer,West
+FIN0211,2025-11-29 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,29782.95,Completed,Cash,North
+FIN0358,2025-11-30 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,11453.03,Completed,UPI,North
+FIN0038,2025-11-30 00:00:00,Expense,Marketing,Sales,Marketing transaction - Sales,13239.88,Completed,Credit Card,Central
+FIN0006,2025-12-01 00:00:00,Revenue,Product Sales,Marketing,Product Sales transaction - Marketing,39931.43,Completed,Cash,North
+FIN0086,2025-12-02 00:00:00,Revenue,Consulting,Operations,Consulting transaction - Operations,26181.6,Completed,Bank Transfer,Central
+FIN0074,2025-12-03 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,3228.23,Completed,UPI,East
+FIN0455,2025-12-04 00:00:00,Revenue,Service Revenue,Finance,Service Revenue transaction - Finance,38629.09,Completed,Credit Card,North
+FIN0301,2025-12-06 00:00:00,Expense,Logistics,Marketing,Logistics transaction - Marketing,8192.33,Completed,UPI,West
+FIN0226,2025-12-10 00:00:00,Revenue,Service Revenue,Marketing,Service Revenue transaction - Marketing,45303.4,Completed,Bank Transfer,South
+FIN0183,2025-12-10 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,23051.43,Completed,Cash,North
+FIN0253,2025-12-11 00:00:00,Revenue,Product Sales,Sales,Product Sales transaction - Sales,17171.27,Completed,Cash,North
+FIN0569,2025-12-18 00:00:00,Revenue,Consulting,HR,Consulting transaction - HR,20793.75,Pending,Bank Transfer,West
+FIN0303,2025-12-20 00:00:00,Expense,Software,Sales,Software transaction - Sales,3186.86,Completed,Credit Card,East
+FIN0089,2025-12-20 00:00:00,Revenue,Consulting,Marketing,Consulting transaction - Marketing,12877.92,Completed,Credit Card,Central
+FIN0088,2025-12-25 00:00:00,Expense,Salaries,Sales,Salaries transaction - Sales,5540.6,Completed,Credit Card,Central
+FIN0128,2025-12-26 00:00:00,Revenue,Product Sales,Finance,Product Sales transaction - Finance,28679.62,Completed,Bank Transfer,Central
+FIN0084,2025-12-27 00:00:00,Revenue,Service Revenue,Operations,Service Revenue transaction - Operations,19490.51,Completed,Bank Transfer,South
+FIN0400,2025-12-27 00:00:00,Expense,Travel,Marketing,Travel transaction - Marketing,8012.02,Completed,Bank Transfer,Central
+FIN0519,2025-12-27 00:00:00,Revenue,Product Sales,Operations,Product Sales transaction - Operations,20955.27,Completed,UPI,Central
+FIN0125,2025-12-28 00:00:00,Expense,Marketing,Finance,Marketing transaction - Finance,5007.9,Completed,Credit Card,North
+FIN0556,2025-12-29 00:00:00,Expense,Logistics,IT,Logistics transaction - IT,10929.72,Completed,UPI,West
+FIN0534,2025-12-29 00:00:00,Expense,Marketing,Marketing,Marketing transaction - Marketing,2988.59,Completed,UPI,West
+FIN0224,2025-12-30 00:00:00,Expense,Software,Marketing,Software transaction - Marketing,1936.14,Completed,Bank Transfer,South
+FIN0076,2025-12-30 00:00:00,Expense,Office Supplies,Sales,Office Supplies transaction - Sales,7021.44,Completed,Credit Card,East
